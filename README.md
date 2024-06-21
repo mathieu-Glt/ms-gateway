@@ -12,4 +12,4 @@ This microservice has a firewall role, it verifies and gives access to the diffe
 ## Get started !
 To start install the nodes modules folder with this command -> npm install<br/>
 Then launch that command for get image docker hub Nats -> docker run -p 4222:4222 -ti nats:latest.<br/> Nats is a message broker, it allows communication between each microservice. Run this command execute this command in an isolated terminal<br/>
-To finish execute -> npm run dev for start the service
+To finish execute -> npm run dev. For start the service
